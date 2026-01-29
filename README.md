@@ -10,3 +10,5 @@ STEPS TO USE THE APPLICATION
 3. Open the course, and mark your attendance.
 
 For any issues contact support@acityattendance.com.
+
+#attendance
